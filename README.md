@@ -6,7 +6,7 @@ A basic version of the snake game coded in python.
 
 Run the command :
 ```
-	python game.py
+python game.py
 ```
 To control the snake, use the number pad. 
 If you lose, the window will close and the score will be displayed in the console
