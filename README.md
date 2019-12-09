@@ -8,7 +8,7 @@ Run the command :
 ```
 python game.py
 ```
-To control the snake, use the number pad. 
+To control the snake, use the track pad. 
 If you lose, the window will close and the score will be displayed in the console
 
 ## Set up
